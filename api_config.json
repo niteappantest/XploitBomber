@@ -39,7 +39,7 @@
         "params": {
           "phone": "{target}"
         },
-        "identifier": "आपके मोबाइल नंबर पर OTP भेज दिया गया है।"
+        "identifier": "OTP has been sent to your mobile number."
       },
       {
         "name": "frotels",
