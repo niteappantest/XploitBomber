@@ -1,7 +1,7 @@
 # XploitBomber
  Web Based Bomber Using Django And Python
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XploitWizer/XploitBomber)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/niteappantest/XploitBomber)
 
  * [XploitBomber](https://xploitbomber.herokuapp.com/) - Click Here To See Demo
 
